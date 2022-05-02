@@ -1,0 +1,7 @@
+/get_schema.py
+/venv/
+/allure/
+/.pytest_cache/
+/.idea/
+*.pyc
+/allure/
